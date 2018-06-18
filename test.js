@@ -1,5 +1,5 @@
 const discordBotModule = require('./module');
-const discordBot = new discordBotModule("serhanbaba");
+const discordBot = new discordBotModule("secret");
 
 var config = {
         "token": "ur bot token",
