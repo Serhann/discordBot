@@ -1,6 +1,6 @@
 const io = require('socket.io-client');
 const moment = require('moment');
-const base = 'https://serhan.glitch.me';
+const base = 'http://discordbot.svobot.com';
 const socket = io.connect(base);
 const request = require('superagent');
 
